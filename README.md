@@ -55,7 +55,3 @@ Aplicação CRUD completa que permite cadastrar, editar, excluir e consultar usu
 
 > **Requisito:** Delphi com suporte a FireDAC e driver SQLite (incluído por padrão no RAD Studio).
 
-
-## Licença
-
-Este projeto é de uso livre para fins de estudo e aprendizado.
